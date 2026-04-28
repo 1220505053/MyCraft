@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MyCraft/MyCraft.vcxproj" Id="e91a0f71-f7b9-41c8-be61-8a8ff4811e6b" />
+</Solution>
